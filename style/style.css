@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(80, 75, 75);
+    background-color: #9B917F;
 }
 
 .navbar {
@@ -7,7 +7,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #557314;
 
   
   li {
@@ -28,11 +28,11 @@ body {
   }
   
   li a:hover:not(.active) {
-    background-color: #111;
+    background-color: #4A5932;
   }
   
   .active {
-    background-color: #2fc721;
+    background-color: #A6587C;
   }
 }
 
@@ -56,7 +56,7 @@ h3 {
 
 div.gallery {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #4A5932;
   float: left;
   position: relative;
   left: 6%;
@@ -64,7 +64,7 @@ div.gallery {
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 1px solid #557314;
 }
 
 div.gallery img {
@@ -107,7 +107,7 @@ div.desc {
   height: 375px;
   max-height: 375px;
   float: left;
-  background-color: rgba(117, 113, 113, 0.5);
+  background-color: #C5BDA9;
   box-sizing: border-box;
   padding-left: 20px;
   padding-right: 20px;
